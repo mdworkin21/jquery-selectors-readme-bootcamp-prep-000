@@ -12,5 +12,5 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  return $('div:first'), $('div:last')
+  return $('div:first') $('div:last')
 }
